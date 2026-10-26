@@ -69,3 +69,8 @@ This is what the app looks like while replaying the bundled capture:
 - The app now defaults to the bundled replay instead of waiting silently on stdin.
 - OpenStreetMap tiles are fetched on demand from `tile.openstreetmap.org` and cached locally.
 - I could not run the JavaFX app in this workspace because no JavaFX SDK is installed here.
+
+## Contributors
+
+- [Ramy Hatimy](https://github.com/ramshty)
+- [Nada Eddahir](https://github.com/nadaedh)
